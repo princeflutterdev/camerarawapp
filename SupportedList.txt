@@ -30,3 +30,4 @@ motorola:sofiar
 lge:flashlm
 lge:flashlmdd
 huawei:hweml
+samsung:r8q
